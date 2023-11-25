@@ -1,2 +1,3 @@
 # fol
-A Laravel blog experiment
+A Laravel blog experiment   
+coming soon...
